@@ -1,0 +1,7 @@
+Chocolate Cake,6.99, cocoa, eggs, dairy, gluten
+Apple Pie,5.49,apples, gluten, dairy, cinnamon
+Cheesecake,7.99,dairy, eggs, vanilla, gluten
+Tiramisu,8.49, gluten, coffee, dairy, cocoa
+Ice Cream Sundae,4.99, cocoa, dairy, vanilla, nuts
+Red Velvet Cake,36,beet root
+Crepes,12,lactose

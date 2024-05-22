@@ -1,0 +1,4 @@
+Caprese Salad,8.99, tomatoes, dairy, basil
+Bruschetta,7.49,tomatoes, garlic, olive oil, gluten
+Spinach Dip,9.99,spinach, artichokes, dairy
+Stuffed Mushrooms,10.99,mushrooms, dairy, gluten

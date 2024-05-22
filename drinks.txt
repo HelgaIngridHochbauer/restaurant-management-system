@@ -1,0 +1,6 @@
+Cola,2.49, caramel, phosphoric acid, caffeine, coffee
+Orange Juice,3.49,orange, honey
+Iced Tea,2.99,black tea, lemon
+Coffee,2.99,coffee, dairy
+Mojito,7.99, rum, lime, mint
+Aperol Spritz,5,vodka

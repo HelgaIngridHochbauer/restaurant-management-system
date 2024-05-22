@@ -1,0 +1,11 @@
+Grilled Salmon,15.99,salmon, lemon, herbs
+Spaghetti Bolognese,12.49, gluten, beef, tomato, herbs
+Chicken Parmesan,14.99,chicken, tomatoes, dairy
+Beef Steak,18.99, beef, dairy
+Vegetable Stir Fry,11.99,tomatoes, eggplant, carrot, zucchini, soy, garlic, ginger
+Pizza,20,milk,gluten
+Sizar Salad,12,lactose
+Beef Soup,10,lactose
+Burger,13,lactose,tomatoes,beef
+LeKatze,40,nuts
+Ciorba,13,vegetables

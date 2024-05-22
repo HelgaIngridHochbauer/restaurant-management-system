@@ -1,2 +1,5 @@
-# restaurant-management-system
-C++
+in progresss....
+
+
+staff
+- see tables's status
